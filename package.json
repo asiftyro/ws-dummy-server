@@ -1,0 +1,15 @@
+{
+  "name": "ws-dummy-server",
+  "version": "0.0.1",
+  "description": "Dummy HTTP Server, Serving required HTML for testing and simulation",
+  "main": "ws-dummy-server-01.js",
+  "scripts": {
+    "test": "echo \"Tested Manually\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asiftyro/ws-dummy-server.git"
+  },
+  "author": "asif rahman",
+  "license": "ISC"
+}
